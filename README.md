@@ -2,7 +2,7 @@
 
 clone 本项目后根据 homework 目录下的 README.md 文件查看具体要求
 
-![test status](https://github.com/kongmoumou/jsjs-homework/actions/workflows/test.yml/badge.svg)
+[![test status](https://github.com/kongmoumou/jsjs-homework/actions/workflows/test.yml/badge.svg)](https://github.com/kongmoumou/jsjs-homework/actions)
 
 ## 作业提交指南
 
